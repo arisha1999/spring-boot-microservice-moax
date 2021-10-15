@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-eureka/spring-boot-microservice-eureka.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-eureka/spring-boot-microservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-find-bonds/spring-boot-microservice-find-bonds.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-find-bonds/spring-boot-microservice-find-bonds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-find-history-by-dates/spring-boot-microservice-find-history-by-dates.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-find-history-by-dates/spring-boot-microservice-find-history-by-dates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-find-instrument-last-price/spring-boot-microservice-find-instrument-last-price.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-find-instrument-last-price/spring-boot-microservice-find-instrument-last-price.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-microservices.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-microservices.iml" />
+    </modules>
+  </component>
+</project>
